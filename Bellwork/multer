@@ -1,0 +1,5 @@
+The multer library is used for updating files
+
+You need it when handling images
+
+You would NOT store an image or video into a database
